@@ -1,5 +1,7 @@
 package com.techelevator;
 
+import java.util.Scanner;
+
 /*
  Write a command line program which prompts the user for the total bill, and the amount tendered. It should then
  display the change required.
@@ -13,6 +15,5 @@ public class MakeChange {
 
 	public static void main(String[] args) {
 
-	}
 
 }
